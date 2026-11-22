@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/dharankumar_portfolio_contact_email_enabled.html"
+    }
+  ]
+}
